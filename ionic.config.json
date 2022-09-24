@@ -1,0 +1,7 @@
+{
+  "name": "gmg_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
